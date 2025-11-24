@@ -1,0 +1,3 @@
+pymysql
+pymysql.cursors
+tabulate
