@@ -1,3 +1,2 @@
 pymysql
-pymysql.cursors
 tabulate
